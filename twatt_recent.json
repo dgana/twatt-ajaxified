@@ -1,0 +1,35 @@
+{
+	"id": "e6f38b6a-22fc-4f08-3849-9a4a6c488751",
+	"name": "Twatt Recent",
+	"description": "",
+	"order": [
+		"76ea8cd4-d0a6-58ec-a1df-094b7408d3d0"
+	],
+	"folders": [],
+	"timestamp": 1485929214108,
+	"owner": "1513431",
+	"public": false,
+	"published": false,
+	"requests": [
+		{
+			"id": "76ea8cd4-d0a6-58ec-a1df-094b7408d3d0",
+			"headers": "",
+			"url": "localhost:3000/user/",
+			"pathVariables": {},
+			"preRequestScript": null,
+			"method": "GET",
+			"collectionId": "e6f38b6a-22fc-4f08-3849-9a4a6c488751",
+			"data": [],
+			"dataMode": "urlencoded",
+			"name": "localhost:3000/user",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1485930045060,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		}
+	]
+}
